@@ -1,2 +1,2 @@
 # Exercicios_Python
-Exercícios de linguagem de programação
+Exercícios de linguagem de programação Python
