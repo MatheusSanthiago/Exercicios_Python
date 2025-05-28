@@ -1,4 +1,5 @@
 # Exercicios_Python
-Exercícios de linguagem de programação Python
+## Exercícios de linguagem de programação Python
 
-[X] Fazer opload para a web
+* Feito atravez das videos aulas do guanabara
+- [x] Fazer opload para a web
