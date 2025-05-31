@@ -3,6 +3,7 @@ Nome:Matheus Santhiago Fortonato de Souza
 Data:23/05/2025
 Enunciado: Refaca o enunciado/EX035.Py dos triangulos, acrescentando o recurso de mostrar que tipo de triangulo sera formado.
 '''
+
 R1 = float(input('Primeiro segmento: '))
 R2 = float(input('Segundo segmento: '))
 R3 = float(input('Terceiro segmento: '))
