@@ -20,7 +20,7 @@ while True:
         Menor = Preco
         Barato = Produto
     Resp = ' '
-    while Resp Not in "SN":
+    while Resp not in "SN":
         Resp = str(input('Quer continuar? [S/N] ')).strip().upper()[0]
     if Resp == 'N':
         break
