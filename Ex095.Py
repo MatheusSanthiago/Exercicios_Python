@@ -49,9 +49,3 @@ while True:
             print(F'    No jogo{I+1} fez {G} gols')
     print('-' * 40)
 print('<< VOLTE SEMPRE >>')
-
-'''print('-=' * 30)
-print(F'O jogador {Jogador['Nome']} Jogou {len(Jogador['Gols'])} partidas.')
-for I, V in enumerate(Jogador['Gols']):
-    print(F' => Na partida {I}, fez {V} Gols.')
-print(F'Foi um total de {Jogador['Total']} gols.')'''
